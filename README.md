@@ -1,12 +1,15 @@
-## Netflix Clone 💫
+<h1 align="center">Netflix clone</h1>
 
-- yarn start 
-- react router dom
+<p align="center">⏭️ Project has the function of creating new important tasks for you, I used to control my personal tasks</p>
 
-![print](https://user-images.githubusercontent.com/68617133/127966657-33f6b331-9ecf-4283-bf9f-cde526c2947d.png)
+<p align="center">To start the project just run the commands below</p>
 
-Two pages:
+<p display="flex" align="center">
+  yarn 
+  yarn start
+</p>
 
-![print](https://user-images.githubusercontent.com/68617133/127966773-4e9d31a7-06bf-4bf8-b11a-f363989b5cc4.png)
+<br/>
 
-Project responsive all
+![screenshot-rocks (14)](https://user-images.githubusercontent.com/68617133/169667138-4efe4695-1de8-435c-96c7-710726a03caa.png)
+![screenshot-rocks (15)](https://user-images.githubusercontent.com/68617133/169667139-388c45d4-73fd-4176-92ab-4538319e9888.png)
