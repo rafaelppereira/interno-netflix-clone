@@ -1,6 +1,6 @@
 <h1 align="center">Netflix clone</h1>
 
-<p align="center">⏭️ Project has the function of creating new important tasks for you, I used to control my personal tasks</p>
+<p align="center">📺 This is a netflix clone, it is fully responsive and with a movies api to show</p>
 
 <p align="center">To start the project just run the commands below</p>
 
